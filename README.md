@@ -1,6 +1,6 @@
 Dataset for arp-scan
 
-Openwrt instalation
+Openwrt installation
 
 ```
 opgk update
