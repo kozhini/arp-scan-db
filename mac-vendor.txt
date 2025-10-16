@@ -23053,7 +23053,7 @@ FC:FC:48	Apple, Inc.
 FC:FE:77	Hitachi Reftechno, Inc.
 FC:FE:C2	Invensys Controls UK Limited
 FC:FF:AA	IEEE Registration Authority
-[{00:00:0C Cisco Systems, Inc
+00:00:0C	Cisco Systems, Inc
 00:00:0E	FUJITSU LIMITED
 00:00:1B	Novell, Inc.
 00:00:23	ABB INDUSTRIAL SYSTEMS AB
