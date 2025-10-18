@@ -3,8 +3,7 @@ Dataset for arp-scan
 Openwrt installation
 
 ```
-opkg update
-opkg install arp-scan arp-scan-database
+opkg update && opkg install arp-scan arp-scan-database
 ```
 put the file to /etc/arp-scan/ because embedded txt has wrong destination
 
